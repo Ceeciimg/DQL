@@ -1,0 +1,2 @@
+# DQL
+Apuntes de DQL (2 TRIMESTRE, BASES DE DATOS)
